@@ -1,2 +1,2 @@
 # BaselHack
-Bereitstellung von Datasets für den http://baselhack.ch
+Bereitstellung von Datasets für den http://BaselHack.ch
