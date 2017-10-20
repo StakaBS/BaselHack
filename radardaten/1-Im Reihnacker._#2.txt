@@ -1,0 +1,6 @@
+
+
+Standort: 1-Im Reihnacker
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

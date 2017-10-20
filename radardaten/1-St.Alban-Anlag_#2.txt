@@ -1,0 +1,6 @@
+
+
+Standort: 1-St.Alban-Anlag
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
