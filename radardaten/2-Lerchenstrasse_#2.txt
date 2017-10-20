@@ -1,0 +1,6 @@
+
+
+Standort: 2-Lerchenstrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

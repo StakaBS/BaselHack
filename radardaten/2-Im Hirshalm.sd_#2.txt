@@ -1,0 +1,6 @@
+
+
+Standort: 2-Im Hirshalm
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

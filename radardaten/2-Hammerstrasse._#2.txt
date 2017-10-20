@@ -1,0 +1,6 @@
+
+
+Standort: 2-Hammerstrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

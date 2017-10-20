@@ -1,0 +1,6 @@
+
+
+Standort: 2-Gundeldingerst
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
