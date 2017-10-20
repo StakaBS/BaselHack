@@ -1,0 +1,6 @@
+
+
+Standort: 3-Lange Gasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

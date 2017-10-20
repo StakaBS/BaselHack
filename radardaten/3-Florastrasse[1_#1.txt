@@ -1,0 +1,6 @@
+
+
+Standort: Florastrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

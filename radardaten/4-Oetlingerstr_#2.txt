@@ -1,0 +1,6 @@
+
+
+Standort: 4-Oetlingerstr
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

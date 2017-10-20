@@ -1,0 +1,6 @@
+
+
+Standort: 4-Margarethenstr
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

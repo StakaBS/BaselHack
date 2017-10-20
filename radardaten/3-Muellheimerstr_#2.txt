@@ -1,0 +1,6 @@
+
+
+Standort: 3-Muellheimerstr
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
