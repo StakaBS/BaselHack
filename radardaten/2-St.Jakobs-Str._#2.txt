@@ -1,0 +1,6 @@
+
+
+Standort: 2-St.Jakobs-Str
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

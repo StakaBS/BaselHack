@@ -1,0 +1,6 @@
+
+
+Standort: 2-Wittlingerstra
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
