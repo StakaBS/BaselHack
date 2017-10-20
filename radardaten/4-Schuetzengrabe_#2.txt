@@ -1,0 +1,6 @@
+
+
+Standort: Schuetzengasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

@@ -1,0 +1,6 @@
+
+
+Standort: Falkensteinerstr
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

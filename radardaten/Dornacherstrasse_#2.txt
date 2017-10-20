@@ -1,0 +1,6 @@
+
+
+Standort: Dornacherstrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
