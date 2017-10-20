@@ -1,0 +1,6 @@
+
+
+Standort: Klosteberg
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

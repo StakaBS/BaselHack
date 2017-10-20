@@ -1,0 +1,6 @@
+
+
+Standort: Heuberg 28
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
