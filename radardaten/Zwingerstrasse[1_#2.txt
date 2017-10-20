@@ -1,0 +1,6 @@
+
+
+Standort: Zwingerstrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

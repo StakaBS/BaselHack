@@ -1,0 +1,6 @@
+
+
+Standort: WINKELRIEDPLATZ
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

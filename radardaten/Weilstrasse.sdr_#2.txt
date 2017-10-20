@@ -1,0 +1,6 @@
+
+
+Standort: Weilstrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

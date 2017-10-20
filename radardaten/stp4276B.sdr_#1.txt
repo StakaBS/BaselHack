@@ -1,0 +1,6 @@
+
+
+Standort: RTR_1
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

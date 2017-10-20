@@ -1,0 +1,6 @@
+
+
+Standort: Rheingasse vis
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
