@@ -1,0 +1,6 @@
+
+
+Standort: 1-Alemannengasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

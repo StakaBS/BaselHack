@@ -1,0 +1,6 @@
+
+
+Standort: 1-Brueglingerstr
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

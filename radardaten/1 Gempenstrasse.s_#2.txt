@@ -1,0 +1,6 @@
+
+
+Standort: 1 Gempestrasse
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

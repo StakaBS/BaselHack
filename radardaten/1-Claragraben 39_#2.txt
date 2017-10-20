@@ -1,0 +1,6 @@
+
+
+Standort: 1-Claragraben 39
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
