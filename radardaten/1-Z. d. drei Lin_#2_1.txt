@@ -1,0 +1,6 @@
+
+
+Standort: 1-Z. d. drei Lin
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy

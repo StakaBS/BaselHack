@@ -1,0 +1,6 @@
+
+
+Standort: 1-Welschmattstra
+
+[km/h]				 [m]
+Dateformat: dd.mm.yy
